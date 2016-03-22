@@ -123,6 +123,8 @@ $('.element').dropload({
 ````
 例如DEMO1
 
+* 如果数据不满一页，上拉“获取更多”事件会无效
+
 ## dropload使用交流群
 
 [群号：290725368，点击加群](http://shang.qq.com/wpa/qunwpa?idkey=2c58606fdfb5d6be4021a678e1506fdbbbc480aabdca0eeb115c2f4ff5bc69ee)
